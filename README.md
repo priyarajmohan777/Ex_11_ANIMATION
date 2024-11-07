@@ -12,10 +12,15 @@ Android Studio(Latest Version)
 ## ALGORITHM:
 
 1.Start a new Android project in Android Studio.
+
 2.Create UI elements (TextView, ImageView, Buttons) in activity_main.xml.
+
 3.Define animations in the res/anim directory (blink.xml, fade.xml, zoom.xml, clockwise.xml, etc.).
+
 4.Implement the animation logic in MainActivity.java by loading and applying the animations to the ImageView.
+
 5.Link buttons to their respective animation methods using the onClick attribute.
+
 6.Run the app to verify the animations.
 
 ## PROGRAM:
